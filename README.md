@@ -1,11 +1,11 @@
 # Speaker2Credit 
 
-## Speaker2Credit - credibility vectors for fake news detection
+## Credibility vectors for fake news detection
 
 This dataset is part of a paper published at DSJM 2018 and an ongoing master thesis.
 
 *Speaker2Credit* is based on the publicly available data from PolitiFact.com and the benchmark data set [LIAR](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip) (Wang 2017).
-Given a speaker's name, job title, party affiliation and home state one can look up their corresponding credibility vector using *Speaker2Credit*.
+Given a speaker's name, job title, party affiliation and home state one can look up their corresponding credibility vector.
 
 ## Content
 
@@ -32,9 +32,9 @@ If you use this dataset, please cite the following paper:
 
 ``` 
 @InProceedings{kirilin2018exploiting,
- author =  {Kirilin, Angelika  and  Strube, Micheal},
- title = 	 {Exploiting a Speaker’s Credibility to Detect Fake News},
+ author={Kirilin, Angelika  and  Strube, Micheal},
+ title={Exploiting a Speaker’s Credibility to Detect Fake News},
  booktitle={Proceedings of Data Science, Journalism \& Media workshop at KDD (DSJM’18)},
- year = 	 2018
+ year=2018
 }
 ```
